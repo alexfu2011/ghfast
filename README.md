@@ -19,17 +19,17 @@ GitHub 全资源极速加速工具，支持 GitHub 仓库、Raw 文件、Release
 https://gh.goghx.top
 ```
 
-# Git 仓库
+## Git 仓库
 https://gh.goghx.top/user/repo.git
 
-# Raw 文件
+## Raw 文件
 https://gh.goghx.top/user/repo/raw/main/README.md
 
-# Release 附件
+## Release 附件
 https://gh.goghx.top/user/repo/releases/download/v1.0/app.zip
 
-# 分支源码压缩包
+## 分支源码压缩包
 https://gh.goghx.top/user/repo/archive/refs/heads/main.zip
 
-# Tag 源码压缩包
+## Tag 源码压缩包
 https://gh.goghx.top/user/repo/archive/refs/tags/v1.0.0.zip
