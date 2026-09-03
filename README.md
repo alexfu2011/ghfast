@@ -39,5 +39,6 @@ https://gh.goghx.top/user/repo.git
 
 ```text
 https://gh.goghx.top
+```
 
 ### 长期有效
