@@ -19,17 +19,15 @@ GitHub 全资源极速加速工具，支持 GitHub 仓库、Raw 文件、Release
 https://gh.goghx.top
 ```
 
-## Git 仓库
-https://gh.goghx.top/user/repo.git
+## 使用说明 · 命令示例
 
-## Raw 文件
-https://gh.goghx.top/user/repo/raw/main/README.md
-
-## Release 附件
-https://gh.goghx.top/user/repo/releases/download/v1.0/app.zip
-
-## 分支源码压缩包
-https://gh.goghx.top/user/repo/archive/refs/heads/main.zip
-
-## Tag 源码压缩包
-https://gh.goghx.top/user/repo/archive/refs/tags/v1.0.0.zip
+| 场景 | 用法 |
+|---|---|
+| Git 克隆 | `git clone https://gh.goghx.top/user/repo.git` |
+| Git 推送 | `git push https://gh.goghx.top/user/repo.git` |
+| Release 附件 | `curl -L -O https://gh.goghx.top/user/repo/releases/download/v1.0/app.zip` |
+| 源码压缩包 | `curl -L -O https://gh.goghx.top/user/repo/archive/refs/heads/main.zip` |
+| Raw 文件 | `curl -L https://gh.goghx.top/user/repo/raw/main/script.sh \| bash` |
+| 完整链接直贴 | `https://gh.goghx.top/https://github.com/user/repo/releases/download/v1.0/app.zip` |
+| Git 全局加速 | `git config --global url."https://gh.goghx.top/".insteadOf "https://github.com/"` |
+| 私有仓库 | `git clone https://TOKEN@gh.goghx.top/user/repo.git` |
