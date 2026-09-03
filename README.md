@@ -1,4 +1,4 @@
-# ghfast
+# ghfast • 长期有效
 
 GitHub 全资源极速加速工具，支持 GitHub 仓库、Raw 文件、Release 附件及源码压缩包的快速访问。
 
