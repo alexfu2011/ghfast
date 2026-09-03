@@ -35,7 +35,9 @@ https://gh.goghx.top/user/repo.git
 | Git 全局加速 | `git config --global url."https://gh.goghx.top/".insteadOf "https://github.com/"` |
 | 私有仓库 | `git clone https://TOKEN@gh.goghx.top/user/repo.git` |
 
-## 🌐 服务地址（长期有效）
+## 🌐 服务地址
 
 ```text
 https://gh.goghx.top
+
+### 长期有效
