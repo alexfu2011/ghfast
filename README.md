@@ -41,4 +41,6 @@ https://gh.goghx.top/user/repo.git
 https://gh.goghx.top
 ```
 
-### 长期有效
+## ⚖️ 免责声明
+
+本项目仅提供网络访问加速功能，不存储或修改 GitHub 资源内容。用户使用本服务产生的任何行为及后果由用户自行承担。
