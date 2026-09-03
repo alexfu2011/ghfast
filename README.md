@@ -13,13 +13,11 @@ GitHub 全资源极速加速工具，支持 GitHub 仓库、Raw 文件、Release
 - 支持公开仓库及 Token 鉴权访问
 - 无需安装客户端，直接替换域名即可使用
 
-## 🌐 服务地址
+# GitHub 加速服务
 
-```text
-https://gh.goghx.top
-```
+> 使用 `gh.goghx.top` 加速访问 GitHub 仓库、Raw 文件、Release 附件及源码压缩包。
 
-## 使用说明 · 命令示例
+## 使用场景
 
 | 场景 | 用法 |
 |---|---|
@@ -31,3 +29,12 @@ https://gh.goghx.top
 | 完整链接直贴 | `https://gh.goghx.top/https://github.com/user/repo/releases/download/v1.0/app.zip` |
 | Git 全局加速 | `git config --global url."https://gh.goghx.top/".insteadOf "https://github.com/"` |
 | 私有仓库 | `git clone https://TOKEN@gh.goghx.top/user/repo.git` |
+
+## 使用方法
+
+将 GitHub 原始链接中的域名替换为 `gh.goghx.top` 即可。
+
+例如，原始链接：
+
+```text
+https://github.com/user/repo.git
