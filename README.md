@@ -34,3 +34,8 @@ https://gh.goghx.top/user/repo.git
 | 完整链接直贴 | `https://gh.goghx.top/https://github.com/user/repo/releases/download/v1.0/app.zip` |
 | Git 全局加速 | `git config --global url."https://gh.goghx.top/".insteadOf "https://github.com/"` |
 | 私有仓库 | `git clone https://TOKEN@gh.goghx.top/user/repo.git` |
+
+## 🌐 服务地址（长期有效）
+
+```text
+https://gh.goghx.top
